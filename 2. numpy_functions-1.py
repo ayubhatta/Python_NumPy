@@ -2,6 +2,7 @@
 #np.zeros((rows, columns), dtype)
 #np.ones((rows, columns), dtype)
 
+# importing numpy library as np
 import numpy as np
 
 print(np.empty((4, 4), dtype = float))
