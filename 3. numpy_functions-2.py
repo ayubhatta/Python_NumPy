@@ -3,6 +3,7 @@
 #np.flatten()
 #np.ravel()
 
+# importing numpy library as np
 import numpy as np
 
 a = np.arange(1,20)
